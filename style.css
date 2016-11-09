@@ -1,0 +1,15 @@
+body {
+  padding-top: 70px;
+}
+
+.wicked-green {
+  background-color: #43D570;
+}
+
+.evil-red {
+  background-color: ruby;
+}
+
+#calendar-div {
+  display: none;
+}
